@@ -9,4 +9,10 @@ ZCZC W00 60 L10 Assignment #00
 ZCZC W00 90 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 20 L05 Quiz related including studying
 ZCZC W00 05 L04 GitHub Pages related
+
 ZCZC W01 120 L11 Assignment #01
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 30 L05 Quiz related including studying
+ZCZC W01 10 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 10 L04 GitHub Pages related
+
