@@ -1,4 +1,6 @@
 # OS242
+Welcome to Operating Systems 2024/2025 Semester 3
+---
 
 | | LOG | | GITHUB | | LINKS | |
 |---|---|---|---|---|---|---|
