@@ -29,3 +29,11 @@ ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS related
 
 ZCZC W03 240 L05 Quiz related including studying
+ZCZC W03 120 L13 Assignment #03
+ZCZC W03 60 L05 Quiz related including studying
+ZCZC W03 30 L04 GitHub Pages related
+ZCZC W03 120 L13 Assignment #03
+ZCZC W03 20 L41 TXT/mylog.txt related.
+ZCZC W03 10 L43 TXT/myrank.txt related, including peer review.
+ZCZC W01 70 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
