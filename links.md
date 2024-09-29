@@ -36,3 +36,9 @@ permalink: LINKS/
 6. [Allocation Methods](https://youtu.be/B1_er2nGKao?si=oKL33ZYsLcMLmpm5) - MUST WATCH: Explains thoroughly about multiple allocation methods
 7. [Log Structured File System](https://youtu.be/TYqBtau0bYw?si=egzO2T0wEPBCSHH8) - Better explanation on the log structured file system using visualization(board and drawings)
 
+# WEEK 4:
+1. [Main Memory - Part 1](https://youtu.be/Jy_teuaj7Ic?si=vzoU9uV-SkBMqEzg) - Explanation on main memory slides part 1
+2. [Main Memory - Part 2](https://youtu.be/8Zw4gIqqZe0?si=TMuiWehgW2vJzR4h) - Explanation on main memory slides part 2
+3. [Main Memory - Part 3](https://youtu.be/gUSOVZK7PaU?si=Y4nSp38rMjB-m-tp) - Explanation on main memory slides part 3
+4. [Main Memory Management](https://youtu.be/Ag4p5yCqte8?si=XdyX4VdUcbl0xFR_) - Another video on the slides about main memory management
+5. [Walkthrough on Address Translation](https://youtu.be/6neHHkI0Z0o?si=yeTH7rBLlNZUFEdi) - A short video on how address translation is done
