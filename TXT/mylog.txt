@@ -37,3 +37,16 @@ ZCZC W03 20 L41 TXT/mylog.txt related.
 ZCZC W03 10 L43 TXT/myrank.txt related, including peer review.
 ZCZC W03 70 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
+
+ZCZC W04 105 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 40 L13 Assignment #03
+ZCZC W04 105 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 75 L05 Quiz related including studying
+ZCZC W04 20 L41 TXT/mylog.txt related.
+ZCZC W04 30 L05 Quiz related including studying
+ZCZC W04 120 L13 Assignment #03
+ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L43 TXT/myrank.txt related, including peer review.
+ZCZC W04 60 L81 Listening: Radio, Music, etc.
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
