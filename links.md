@@ -46,4 +46,4 @@ permalink: LINKS/
 # WEEK 5:
 1. [What is virtual memory?](https://youtu.be/2quKyPnUShQ?si=qe1c2NT2bHZgMPA8) - Explanation on what virtual memory is
 2. [CPU Cache Explained](https://youtu.be/yi0FhRqDJfo?si=OR37KLUXEL7bO5_r) - Explanation on cache memory
-3. [Basics of memory allocation] - A short explanation video on basics of dynamic memory allocation
+3. [Basics of memory allocation](https://youtu.be/udfbq4M2Kfc?si=OOK0B2JZjrTtHe6W) - A short explanation video on basics of dynamic memory allocation
