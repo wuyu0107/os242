@@ -50,3 +50,13 @@ ZCZC W04 10 L43 TXT/myrank.txt related, including peer review.
 ZCZC W04 60 L81 Listening: Radio, Music, etc.
 ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+
+ZCZC W05 105 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 20 L14 Assignment #04
+ZCZC W05 105 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 15 L41 TXT/mylog.txt related.
+ZCZC W05 135 L14 Assignment #04
+ZCZC W05 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W05 5 L03 GitHub and git related, including commit, push, pull
