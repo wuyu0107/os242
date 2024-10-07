@@ -42,3 +42,8 @@ permalink: LINKS/
 3. [Main Memory - Part 3](https://youtu.be/gUSOVZK7PaU?si=Y4nSp38rMjB-m-tp) - Explanation on main memory slides part 3
 4. [Main Memory Management](https://youtu.be/Ag4p5yCqte8?si=XdyX4VdUcbl0xFR_) - Another video on the slides about main memory management
 5. [Walkthrough on Address Translation](https://youtu.be/6neHHkI0Z0o?si=yeTH7rBLlNZUFEdi) - A short video on how address translation is done
+
+# WEEK 5:
+1. [What is virtual memory?](https://youtu.be/2quKyPnUShQ?si=qe1c2NT2bHZgMPA8) - Explanation on what virtual memory is
+2. [CPU Cache Explained](https://youtu.be/yi0FhRqDJfo?si=OR37KLUXEL7bO5_r) - Explanation on cache memory
+3. [Basics of memory allocation] - A short explanation video on basics of dynamic memory allocation
