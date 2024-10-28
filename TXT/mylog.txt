@@ -61,3 +61,14 @@ ZCZC W05 50 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 20 L43 TXT/myrank.txt related, including peer review.
 ZCZC W05 20 L03 GitHub and git related, including commit, push, pull
 ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
+
+ZCZC W06 105 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 75 L16 Assignment #06
+ZCZC W06 20 L41 TXT/mylog.txt related.
+ZCZC W06 30 L43 TXT/myrank.txt related, including peer review.
+ZCZC W06 20 L25 C-language including Make.
+ZCZC W06 10 L24 Scripting in general.
+ZCZC W06 100 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 60 L05 Quiz related including studying
+ZCZC W06 20 L03 GitHub and git related, including commit, push, pull
