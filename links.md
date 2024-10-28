@@ -52,4 +52,4 @@ permalink: LINKS/
 1. [Playlist: Explanation of Process Management](https://youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn&si=5t6HU2wUNfZvigYZ) - Explanation on what process management is
 2. [Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained](https://youtu.be/olYdb0DdGtM?si=XhkMD91z4-XpOpFI) - A video(tutorial) that explains how a thread works and the difference and meaning behind concurrency and parallelism
 3. [Process vs Thread](https://youtu.be/4rLW7zg21gI?si=5QGGf_YP17eOlk5n) - A short explanation video that explains the differences between process and threads
-4. [What is a Thread? | Threads, Process, Program, Parallelism and Scheduler Explained](https://youtu.be/hN2Yrf4tqTY?si=3qlMyV29fqVXVoZG) - Another video on what thread is with examples
+4. [What is a Thread? - Threads, Process, Program, Parallelism and Scheduler Explained](https://youtu.be/hN2Yrf4tqTY?si=3qlMyV29fqVXVoZG) - Another video on what thread is with examples
