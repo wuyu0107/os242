@@ -53,3 +53,10 @@ permalink: LINKS/
 2. [Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained](https://youtu.be/olYdb0DdGtM?si=XhkMD91z4-XpOpFI) - A video(tutorial) that explains how a thread works and the difference and meaning behind concurrency and parallelism
 3. [Process vs Thread](https://youtu.be/4rLW7zg21gI?si=5QGGf_YP17eOlk5n) - A short explanation video that explains the differences between process and threads
 4. [What is a Thread? - Threads, Process, Program, Parallelism and Scheduler Explained](https://youtu.be/hN2Yrf4tqTY?si=3qlMyV29fqVXVoZG) - Another video on what thread is with examples
+
+# WEEK 7:
+
+1. [Playlist: Process Synchronization](https://youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&si=7cZFENFr_IpAZ4Q7) - A playlist that explains step-by-step on what process synchronization is
+2. [Playlist: Operating System - Process Synchronization](https://youtube.com/playlist?list=PLskQvPDUk0sJ6RRPdkgO2qziych6vQwZ1&si=xGmxQrApW5NjWuiF) - A playlist on explanation of process synchronization and process questions/solutions/algorithm
+3. [Questions on Process Synchronization](https://youtu.be/WIj06NCxkWE?si=DlrjE8blodrKCBk8) - Answers and explains example problems on process synchronization
+4. [Process Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction) - A website that explains thoroughly on the topics of process synchronization.
