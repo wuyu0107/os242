@@ -60,3 +60,8 @@ permalink: LINKS/
 2. [Playlist: Operating System - Process Synchronization](https://youtube.com/playlist?list=PLskQvPDUk0sJ6RRPdkgO2qziych6vQwZ1&si=xGmxQrApW5NjWuiF) - A playlist on explanation of process synchronization and process questions/solutions/algorithm
 3. [Questions on Process Synchronization](https://youtu.be/WIj06NCxkWE?si=DlrjE8blodrKCBk8) - Answers and explains example problems on process synchronization
 4. [Process Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction) - A website that explains thoroughly on the topics of process synchronization.
+
+# WEEK 8:
+1. [Playlist: CPU Scheduling](https://youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&si=8LfEmGB9yZVPzigh) - A playlist about CPU scheduling
+2. [Playlist: CPU Scheduling Algorithms](https://youtube.com/playlist?list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE&si=gAbdCfCjifZF04_y) - A playlist on CPU scheduling algorithms. Explains each algorithms with examples.
+3. [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) - Website that explains what a process is and types of algorithms of scheduling
