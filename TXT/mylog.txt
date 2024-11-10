@@ -83,3 +83,14 @@ ZCZC W07 10 L41 TXT/mylog.txt related.
 ZCZC W07 30 L43 TXT/myrank.tex related, including peer review.
 ZCZC W07 60 L04 GitHub Pages related
 ZCZC W07 20 L03 GitHub and git related, including commit, push, pull
+
+ZCZC W08 240 L18 Assignment #08
+ZCZC W08 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 60 L18 Assignment #08
+ZCZC W08 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 120 L05 Quiz related including studying
+ZCZC W08 240 L18 Assignment #08
+ZCZC W08 30 L41 TXT/mylog.txt related.
+ZCZC W08 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 50 L04 GitHub Pages related
+ZCZC W08 10 L03 GitHub and git related, including commit, push, pull
